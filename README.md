@@ -79,9 +79,10 @@
 <!-- Cloud Platforms -->
 <h4 align="left">Cloud Platforms:</h4>
 <p align="left">
-  <a href="https://aws.amazon.com/ec2/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS EC2" width="40" height="40"/>
-  </a>
+ <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS EC2" width="40" height="40"/>
+</a>
+
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
   </a>
