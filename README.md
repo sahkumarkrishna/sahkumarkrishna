@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krishna Kumar</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | MERN Stack Engineer | India
+🚀 Full Stack Developer | MERN Stack Developer | MEAN Stack Developer | Frontend Developer | Backend Developer | Web Developer | UI/UX Enthusiast | India
 </h3>
 
 <p align="center">
